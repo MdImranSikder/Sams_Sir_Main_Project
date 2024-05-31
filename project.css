@@ -1,0 +1,20 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+.HALF{
+   text-align: justify;
+   width: 50%;
+
+}
+img{
+    float: center;
+}
+.img1{
+    float: right;
+}
+
+.fixed{
+    position: -webkit-sticky;
+    position: sticky;
+}
